@@ -1,0 +1,352 @@
+OutPut: 
+Question 1 OutPut: 
+script.js:3 {"name":"person 1","age":5}
+
+==============================================================================
+
+Question 2 OutPut:  
+
+script.js:14 🇲🇷
+script.js:14 🇦🇼
+script.js:14 🇦🇷
+script.js:14 🇸🇪
+script.js:14 🇲🇻
+script.js:14 🇲🇽
+script.js:14 🇳🇿
+script.js:14 🇪🇨
+script.js:14 🇼🇫
+script.js:14 🇦🇽
+script.js:14 🇲🇪
+script.js:14 🇵🇰
+script.js:14 🇵🇳
+script.js:14 🇿🇲
+script.js:14 🇸🇨
+script.js:14 🇲🇾
+script.js:14 🇳🇴
+script.js:14 🇺🇿
+script.js:14 🇻🇺
+script.js:14 🇹🇫
+script.js:14 🇨🇽
+script.js:14 🇸🇬
+script.js:14 🇸🇷
+script.js:14 🇪🇭
+script.js:14 🇲🇫
+script.js:14 🇨🇷
+script.js:14 🇭🇲
+script.js:14 🇮🇪
+script.js:14 🇦🇶
+script.js:14 🇦🇺
+script.js:14 🇱🇾
+script.js:14 🇶🇦
+script.js:14 🇬🇱
+script.js:14 🇲🇺
+script.js:14 🇰🇿
+script.js:14 🇮🇴
+script.js:14 🇦🇱
+script.js:14 🇧🇭
+script.js:14 🇵🇬
+script.js:14 🇧🇮
+script.js:14 🇮🇳
+script.js:14 🇺🇾
+script.js:14 🇱🇨
+script.js:14 🇧🇧
+script.js:14 🇳🇨
+script.js:14 🇱🇻
+script.js:14 🇪🇪
+script.js:14 🇳🇺
+script.js:14 🇧🇱
+script.js:14 🇵🇷
+script.js:14 🇬🇩
+script.js:14 🇲🇴
+script.js:14 🇨🇾
+script.js:14 🇮🇲
+script.js:14 🇬🇷
+script.js:14 🇸🇾
+script.js:14 🇱🇹
+script.js:14 🇨🇼
+script.js:14 🇩🇲
+script.js:14 🇳🇪
+script.js:14 🇰🇬
+script.js:14 🇹🇹
+script.js:14 🇹🇬
+script.js:14 🇵🇸
+script.js:14 🇲🇬
+script.js:14 🇭🇷
+script.js:14 🇫🇴
+script.js:14 🇭🇹
+script.js:14 🇲🇸
+script.js:14 🇨🇰
+script.js:14 🇹🇱
+script.js:14 🇲🇶
+script.js:14 🇨🇺
+script.js:14 🇹🇼
+script.js:14 🇸🇿
+script.js:14 🇺🇦
+script.js:14 🇧🇲
+script.js:14 🇰🇷
+script.js:14 🇵🇪
+script.js:14 🇮🇶
+script.js:14 🇲🇩
+script.js:14 🇸🇲
+script.js:14 🇻🇪
+script.js:14 🇬🇾
+script.js:14 🇰🇾
+
+=================== ==============================================================
+
+Question 3 OutPut:
+
+
+script.js:127 Mauritania Africa Western Africa 4649660
+script.js:127 Aruba Americas Caribbean 106766
+script.js:127 Argentina Americas South America 45376763
+script.js:127 Sweden Europe Northern Europe 10353442
+script.js:127 Maldives Asia Southern Asia 540542
+script.js:127 Mexico Americas North America 128932753
+script.js:127 New Zealand Oceania Australia and New Zealand 5084300
+script.js:127 Ecuador Americas South America 17643060
+script.js:127 Wallis and Futuna Oceania Polynesia 11750
+script.js:127 Åland Islands Europe Northern Europe 29458
+script.js:127 Montenegro Europe Southeast Europe 621718
+script.js:127 Pakistan Asia Southern Asia 220892331
+script.js:127 Pitcairn Islands Oceania Polynesia 56
+script.js:127 Zambia Africa Eastern Africa 18383956
+script.js:127 Seychelles Africa Eastern Africa 98462
+script.js:127 Malaysia Asia South-Eastern Asia 32365998
+script.js:127 Norway Europe Northern Europe 5379475
+script.js:127 Uzbekistan Asia Central Asia 34232050
+script.js:127 Vanuatu Oceania Melanesia 307150
+script.js:127 French Southern and Antarctic Lands Antarctic undefined 400
+script.js:127 Christmas Island Oceania Australia and New Zealand 2072
+script.js:127 Singapore Asia South-Eastern Asia 5685807
+script.js:127 Suriname Americas South America 586634
+script.js:127 Western Sahara Africa Northern Africa 510713
+script.js:127 Saint Martin Americas Caribbean 38659
+script.js:127 Costa Rica Americas Central America 5094114
+script.js:127 Heard Island and McDonald Islands Antarctic undefined 0
+script.js:127 Ireland Europe Northern Europe 4994724
+script.js:127 Antarctica Antarctic undefined 1000
+script.js:127 Australia Oceania Australia and New Zealand 25687041
+script.js:127 Libya Africa Northern Africa 6871287
+script.js:127 Qatar Asia Western Asia 2881060
+script.js:127 Greenland Americas North America 56367
+script.js:127 Mauritius Africa Eastern Africa 1265740
+script.js:127 Kazakhstan Asia Central Asia 18754440
+script.js:127 British Indian Ocean Territory Africa Eastern Africa 3000
+script.js:127 Albania Europe Southeast Europe 2837743
+script.js:127 Bahrain Asia Western Asia 1701583
+script.js:127 Papua New Guinea Oceania Melanesia 8947027
+script.js:127 Burundi Africa Eastern Africa 11890781
+script.js:127 India Asia Southern Asia 1380004385
+script.js:127 Uruguay Americas South America 3473727
+script.js:127 Saint Lucia Americas Caribbean 183629
+script.js:127 Barbados Americas Caribbean 287371
+script.js:127 New Caledonia Oceania Melanesia 271960
+script.js:127 Latvia Europe Northern Europe 1901548
+script.js:127 Estonia Europe Northern Europe 1331057
+script.js:127 Niue Oceania Polynesia 1470
+script.js:127 Saint Barthélemy Americas Caribbean 4255
+script.js:127 Puerto Rico Americas Caribbean 3194034
+script.js:127 Grenada Americas Caribbean 112519
+script.js:127 Macau Asia Eastern Asia 649342
+script.js:127 Cyprus Europe Southern Europe 1207361
+script.js:127 Isle of Man Europe Northern Europe 85032
+script.js:127 Greece Europe Southern Europe 10715549
+script.js:127 Syria Asia Western Asia 17500657
+script.js:127 Lithuania Europe Northern Europe 2794700
+script.js:127 Curaçao Americas Caribbean 155014
+script.js:127 Dominica Americas Caribbean 71991
+script.js:127 Niger Africa Western Africa 24206636
+script.js:127 Kyrgyzstan Asia Central Asia 6591600
+script.js:127 Trinidad and Tobago Americas Caribbean 1399491
+script.js:127 Togo Africa Western Africa 8278737
+script.js:127 Palestine Asia Western Asia 4803269
+script.js:127 Madagascar Africa Eastern Africa 27691019
+script.js:127 Croatia Europe Southeast Europe 4047200
+script.js:127 Faroe Islands Europe Northern Europe 48865
+script.js:127 Haiti Americas Caribbean 11402533
+script.js:127 Montserrat Americas Caribbean 4922
+script.js:127 Cook Islands Oceania Polynesia 18100
+script.js:127 Timor-Leste Asia South-Eastern Asia 1318442
+script.js:127 Martinique Americas Caribbean 378243
+script.js:127 Cuba Americas Caribbean 11326616
+script.js:127 Taiwan Asia Eastern Asia 23503349
+script.js:127 Eswatini Africa Southern Africa 1160164
+script.js:127 Ukraine Europe Eastern Europe 44134693
+script.js:127 Bermuda Americas North America 63903
+script.js:127 South Korea Asia Eastern Asia 51780579
+script.js:127 Peru Americas South America 32971846
+script.js:127 Iraq Asia Western Asia 40222503
+script.js:127 Moldova Europe Eastern Europe 2617820
+script.js:127 San Marino Europe Southern Europe 33938
+script.js:127 Venezuela Americas South America 28435943
+script.js:127 Guyana Americas South America 786559
+script.js:127 Cayman Islands Americas Caribbean 65720
+script.js:127 Cambodia Asia South-Eastern Asia 16718971
+script.js:127 Cocos (Keeling) Islands Oceania Australia and New Zealand 544
+script.js:127 Malta Europe Southern Europe 525285
+script.js:127 Sri Lanka Asia Southern Asia 21919000
+script.js:127 Israel Asia Western Asia 9216900
+script.js:127 Sudan Africa Northern Africa 43849269
+script.js:127 United States Virgin Islands Americas Caribbean 106290
+script.js:127 Eritrea Africa Eastern Africa 5352000
+script.js:127 Mali Africa Western Africa 20250834
+script.js:127 Somalia Africa Eastern Africa 15893219
+script.js:127 Norfolk Island Oceania Australia and New Zealand 2302
+script.js:127 Comoros Africa Eastern Africa 869595
+script.js:127 Nicaragua Americas Central America 6624554
+script.js:127 Russia Europe Eastern Europe 144104080
+script.js:127 Uganda Africa Eastern Africa 45741000
+script.js:127 Nauru Oceania Micronesia 10834
+script.js:127 Switzerland Europe Western Europe 8654622
+script.js:127 Portugal Europe Southern Europe 10305564
+script.js:127 Tajikistan Asia Central Asia 9537642
+script.js:127 South Sudan Africa Middle Africa 11193729
+script.js:127 Bouvet Island Antarctic undefined 0
+script.js:127 Micronesia Oceania Micronesia 115021
+script.js:127 American Samoa Oceania Polynesia 55197
+script.js:127 Czechia Europe Central Europe 10698896
+script.js:127 Botswana Africa Southern Africa 2351625
+script.js:127 Tunisia Africa Northern Africa 11818618
+script.js:127 Anguilla Americas Caribbean 13452
+script.js:127 Guinea-Bissau Africa Western Africa 1967998
+script.js:127 Slovakia Europe Central Europe 5458827
+script.js:127 Marshall Islands Oceania Micronesia 59194
+script.js:127 Algeria Africa Northern Africa 44700000
+script.js:127 Jamaica Americas Caribbean 2961161
+script.js:127 Mozambique Africa Eastern Africa 31255435
+script.js:127 Spain Europe Southern Europe 47351567
+script.js:127 Honduras Americas Central America 9904608
+script.js:127 Netherlands Europe Western Europe 16655799
+script.js:127 South Africa Africa Southern Africa 59308690
+script.js:127 Azerbaijan Asia Western Asia 10110116
+script.js:127 North Macedonia Europe Southeast Europe 2077132
+script.js:127 Gambia Africa Western Africa 2416664
+script.js:127 Liberia Africa Western Africa 5057677
+script.js:127 Luxembourg Europe Western Europe 632275
+script.js:127 Cape Verde Africa Western Africa 555988
+script.js:127 Bahamas Americas Caribbean 393248
+script.js:127 Georgia Asia Western Asia 3714000
+script.js:127 Kiribati Oceania Micronesia 119446
+script.js:127 Tanzania Africa Eastern Africa 59734213
+script.js:127 China Asia Eastern Asia 1402112000
+script.js:127 Guatemala Americas Central America 16858333
+script.js:127 São Tomé and Príncipe Africa Middle Africa 219161
+script.js:127 Germany Europe Western Europe 83240525
+script.js:127 Sierra Leone Africa Western Africa 7976985
+script.js:127 Chad Africa Middle Africa 16425859
+script.js:127 United Kingdom Europe Northern Europe 67215293
+script.js:127 Slovenia Europe Central Europe 2100126
+script.js:127 Thailand Asia South-Eastern Asia 69799978
+script.js:127 Indonesia Asia South-Eastern Asia 273523621
+script.js:127 Northern Mariana Islands Oceania Micronesia 57557
+script.js:127 Guam Oceania Micronesia 168783
+script.js:127 Finland Europe Northern Europe 5530719
+script.js:127 Mayotte Africa Eastern Africa 226915
+script.js:127 Gibraltar Europe Southern Europe 33691
+script.js:127 Turkmenistan Asia Central Asia 6031187
+script.js:127 Kosovo Europe Southeast Europe 1775378
+script.js:127 Ivory Coast Africa Western Africa 26378275
+script.js:127 Morocco Africa Northern Africa 36910558
+script.js:127 Dominican Republic Americas Caribbean 10847904
+script.js:127 Ghana Africa Western Africa 31072945
+script.js:127 Vatican City Europe Southern Europe 451
+script.js:127 Jersey Europe Northern Europe 100800
+script.js:127 Turkey Asia Western Asia 84339067
+script.js:127 Tuvalu Oceania Polynesia 11792
+script.js:127 Iran Asia Southern Asia 83992953
+script.js:127 Egypt Africa Northern Africa 102334403
+script.js:127 Denmark Europe Northern Europe 5831404
+script.js:127 Kenya Africa Eastern Africa 53771300
+script.js:127 Bulgaria Europe Southeast Europe 6927288
+script.js:127 Zimbabwe Africa Southern Africa 14862927
+script.js:127 Angola Africa Middle Africa 32866268
+script.js:127 Nigeria Africa Western Africa 206139587
+script.js:127 Poland Europe Central Europe 37950802
+script.js:127 Senegal Africa Western Africa 16743930
+script.js:127 Saint Helena, Ascension and Tristan da Cunha Africa Western Africa 53192
+script.js:127 Lebanon Asia Western Asia 6825442
+script.js:127 Samoa Oceania Polynesia 198410
+script.js:127 Philippines Asia South-Eastern Asia 109581085
+script.js:127 Guernsey Europe Northern Europe 62999
+script.js:127 El Salvador Americas Central America 6486201
+script.js:127 Kuwait Asia Western Asia 4270563
+script.js:127 Tonga Oceania Polynesia 105697
+script.js:127 Oman Asia Western Asia 5106622
+script.js:127 Afghanistan Asia Southern Asia 40218234
+script.js:127 Saint Kitts and Nevis Americas Caribbean 53192
+script.js:127 Central African Republic Africa Middle Africa 4829764
+script.js:127 Serbia Europe Southeast Europe 6908224
+script.js:127 Armenia Asia Western Asia 2963234
+script.js:127 Bangladesh Asia Southern Asia 164689383
+script.js:127 Laos Asia South-Eastern Asia 7275556
+script.js:127 Chile Americas South America 19116209
+script.js:127 French Polynesia Oceania Polynesia 280904
+script.js:127 Panama Americas Central America 4314768
+script.js:127 United States Americas North America 329484123
+script.js:127 Nepal Asia Southern Asia 29136808
+script.js:127 Myanmar Asia South-Eastern Asia 54409794
+script.js:127 Falkland Islands Americas South America 2563
+script.js:127 Hungary Europe Central Europe 9749763
+script.js:127 Palau Oceania Micronesia 18092
+script.js:127 Equatorial Guinea Africa Middle Africa 1402985
+script.js:127 Guinea Africa Western Africa 13132792
+script.js:127 United Arab Emirates Asia Western Asia 9890400
+script.js:127 Turks and Caicos Islands Americas Caribbean 38718
+script.js:127 British Virgin Islands Americas Caribbean 30237
+script.js:127 Liechtenstein Europe Western Europe 38137
+script.js:127 Bosnia and Herzegovina Europe Southeast Europe 3280815
+script.js:127 Malawi Africa Eastern Africa 19129955
+script.js:127 Bhutan Asia Southern Asia 771612
+script.js:127 Cameroon Africa Middle Africa 26545864
+script.js:127 Andorra Europe Southern Europe 77265
+script.js:127 Guadeloupe Americas Caribbean 400132
+script.js:127 Republic of the Congo Africa Middle Africa 5657000
+script.js:127 Réunion Africa Eastern Africa 840974
+script.js:127 Burkina Faso Africa Western Africa 20903278
+script.js:127 Jordan Asia Western Asia 10203140
+script.js:127 DR Congo Africa Middle Africa 108407721
+script.js:127 Tokelau Oceania Polynesia 1411
+script.js:127 Vietnam Asia South-Eastern Asia 97338583
+script.js:127 Sint Maarten Americas Caribbean 40812
+script.js:127 Belgium Europe Western Europe 11555997
+script.js:127 United States Minor Outlying Islands Americas North America 300
+script.js:127 Brazil Americas South America 212559409
+script.js:127 Belize Americas Central America 397621
+script.js:127 Antigua and Barbuda Americas Caribbean 97928
+script.js:127 Paraguay Americas South America 7132530
+script.js:127 Benin Africa Western Africa 12123198
+script.js:127 Brunei Asia South-Eastern Asia 437483
+script.js:127 Bolivia Americas South America 11673029
+script.js:127 Djibouti Africa Eastern Africa 988002
+script.js:127 French Guiana Americas South America 254541
+script.js:127 Canada Americas North America 38005238
+script.js:127 Saint Pierre and Miquelon Americas North America 6069
+script.js:127 Japan Asia Eastern Asia 125836021
+script.js:127 Rwanda Africa Eastern Africa 12952209
+script.js:127 Saint Vincent and the Grenadines Americas Caribbean 110947
+script.js:127 Iceland Europe Northern Europe 366425
+script.js:127 Belarus Europe Eastern Europe 9398861
+script.js:127 Hong Kong Asia Eastern Asia 7500700
+script.js:127 Lesotho Africa Southern Africa 2142252
+script.js:127 Fiji Oceania Melanesia 896444
+script.js:127 Austria Europe Central Europe 8917205
+script.js:127 Colombia Americas South America 50882884
+script.js:127 Gabon Africa Middle Africa 2225728
+script.js:127 Saudi Arabia Asia Western Asia 34813867
+script.js:127 South Georgia Antarctic undefined 30
+script.js:127 Ethiopia Africa Eastern Africa 114963583
+script.js:127 Caribbean Netherlands Americas Caribbean 25987
+script.js:127 Monaco Europe Western Europe 39244
+script.js:127 North Korea Asia Eastern Asia 25778815
+script.js:127 Italy Europe Southern Europe 59554023
+script.js:127 Namibia Africa Southern Africa 2540916
+script.js:127 Mongolia Asia Eastern Asia 3278292
+script.js:127 Solomon Islands Oceania Melanesia 686878
+script.js:127 Yemen Asia Western Asia 29825968
+script.js:127 Romania Europe Southeast Europe 19286123
+script.js:127 Svalbard and Jan Mayen Europe Northern Europe 2562
+script.js:127 France Europe Western Europe 67391582
+
+================================================================================================================================
+================================================================================================================================
